@@ -1,14 +1,16 @@
-# Álgebra Linear
+🧮 Álgebra Linear
 
-Listas de exercícios e material de apoio da disciplina de Álgebra Linear: espaços vetoriais, pesquisa e exercícios resolvidos em Colab, além do livro-texto da disciplina.
+Este repositório reúne as listas de exercícios, pesquisas e materiais de apoio da disciplina de Álgebra Linear do curso de Tecnologia em Ciência de Dados para Negócios da FATEC Votorantim.
 
-## Conteúdo
+O conteúdo abrange conceitos fundamentais como espaços vetoriais, pesquisas aplicadas e exercícios práticos resolvidos utilizando o Google Colab, além do livro-texto de referência da disciplina (Boldrini).
 
-- Algebra Linear Boldrini.pdf
-- Lista 3_ Colab.docx
-- Lista 3_ Colab.pdf
-- Lista 5  -pesquisa -espaços vetoriais.docx
+📜 Licença e Uso
 
-## Autora
+Este repositório foi criado para fins de registro acadêmico e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
 
-Ana Elisa Rubinato - Ciência de Dados para Negócios (FATEC)
+✍️ Autora
+
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
